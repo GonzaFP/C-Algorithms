@@ -1,0 +1,9 @@
+sort1 uses: Bubble sort.
+
+How do you know?: In worst case scenarios, it is slower than sort2 and sort3 but faster than the two in best case scenarios since it has runnning time of omega n.
+
+sort2 uses: Merge sort.
+How do you know?: It is the fastest in worst case scenarios while in best case scenarios, it is a bit slower than buble sort.
+
+sort3 uses: Selection sort.
+How do you know?: It is faster than bubble sort in worst case scenarios and slowest compared to all in worst case scenarios.
